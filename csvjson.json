@@ -1,0 +1,902 @@
+[
+  {
+    "Question number": 1,
+    "Question Title": "生成式 AI 在醫療領域的應用包括？",
+    "Option 1": "創造虛擬病人數據來訓練 AI 模型",
+    "Option 2": "開發智慧手術機器人",
+    "Option 3": "AI 自動完成所有醫療決策",
+    "Option 4": "AI 可取代所有醫生",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 2,
+    "Question Title": "在企業應用中，使用 BYOG（Bring Your Own Generative）的主要優勢是？",
+    "Option 1": "讓企業完全依賴開放式 AI 平台",
+    "Option 2": "允許企業微調並控制自己的 AI 模型，提高安全性",
+    "Option 3": "使企業無法使用自己的數據來訓練 AI",
+    "Option 4": "限制 AI 的靈活性，無法客製化",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 3,
+    "Question Title": "下列何者屬於能跨段保留語意記憶的檢索輔助方法？",
+    "Option 1": "Positional Encoding",
+    "Option 2": "Chain-of-Thought",
+    "Option 3": "RAG（Retrieval-Augmented Generation）",
+    "Option 4": "Layer Normalization",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 4,
+    "Question Title": "人工智慧中的Transformer架構最早用於何種任務？",
+    "Option 1": "影像識別",
+    "Option 2": "語音辨識",
+    "Option 3": "強化學習",
+    "Option 4": "語言生成與理解",
+    "Correct Option": "(D)"
+  },
+  {
+    "Question number": 5,
+    "Question Title": "以下哪一項非提升標註語意準確性的策略？",
+    "Option 1": "明確定義標註準則",
+    "Option 2": "提供範例與對照集",
+    "Option 3": "自動詞彙擴展與合併",
+    "Option 4": "多次審閱與標註校驗",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 6,
+    "Question Title": "AI 主要的應用領域不包括？",
+    "Option 1": "醫療診斷與健康照護",
+    "Option 2": "自然語言處理與機器翻譯",
+    "Option 3": "AI 取代所有人類決策",
+    "Option 4": "圖像識別與計算機視覺",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 7,
+    "Question Title": "AI 可以依據其學習方式分為哪三種類型？",
+    "Option 1": "監督式學習、非監督式學習、強化學習",
+    "Option 2": "弱 AI、強 AI、超級 AI",
+    "Option 3": "圖像 AI、語言 AI、語音 AI",
+    "Option 4": "自然語言 AI、電腦視覺 AI、數據分析 AI",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 8,
+    "Question Title": "AI 的發展可以歸類為以下哪三個層級？",
+    "Option 1": "計算機科學、數據科學、社會科學",
+    "Option 2": "狹義 AI（ANI）、通用 AI（AGI）、超級 AI（ASI）",
+    "Option 3": "強化學習、深度學習、自然語言處理",
+    "Option 4": "知識圖譜、專家系統、監督學習",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 9,
+    "Question Title": "目前 AI 發展的最大技術瓶頸之一是？",
+    "Option 1": "計算資源需求高",
+    "Option 2": "AI 可完全自主決策，不需人類監督",
+    "Option 3": "AI 無法學習新知識",
+    "Option 4": "AI 只能使用小型數據集進行訓練",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 10,
+    "Question Title": "AI 在處理個人數據時，應遵循哪些國際標準？",
+    "Option 1": "GDPR（歐盟通用數據保護規範）與 CCPA（加州消費者隱私法）",
+    "Option 2": "讓 AI 自由存取所有數據，不受限制",
+    "Option 3": "AI 只適用於企業內部數據，不涉及隱私問題",
+    "Option 4": "AI 生成的數據不需要合規性管理",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 11,
+    "Question Title": "強化學習（Reinforcement Learning）的學習方式是？",
+    "Option 1": "透過試錯機制與獎勵訊號來學習最佳行動策略",
+    "Option 2": "只能依賴標籤數據學習",
+    "Option 3": "只能應用於影像分類",
+    "Option 4": "AI 無法透過強化學習進行決策",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 12,
+    "Question Title": "生成式 AI 安全設計中，RLHF（Reinforcement Learning from Human Feedback）的主要用途為？",
+    "Option 1": "用於資料標註自動化",
+    "Option 2": "增強模型生成圖片解析度",
+    "Option 3": "微調模型行為以符合人類期望與安全原則",
+    "Option 4": "訓練聲音辨識模組",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 13,
+    "Question Title": "企業在 AI 設計過程中，如何提升 AI 的透明性與可解釋性？",
+    "Option 1": "使用可解釋 AI（XAI）技術",
+    "Option 2": "讓 AI 內部決策完全不可見",
+    "Option 3": "AI 只用於內部測試，不對外公開",
+    "Option 4": "禁止 AI 學習新數據",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 14,
+    "Question Title": "以下哪種模型壓縮技術能有效保留原模型知識？",
+    "Option 1": "梯度裁剪",
+    "Option 2": "遮蔽訓練",
+    "Option 3": "知識蒸餾（Distillation）",
+    "Option 4": "隨機初始化",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 15,
+    "Question Title": "Distillation 中 student model 學習的對象主要是？",
+    "Option 1": "原始資料",
+    "Option 2": "真實標籤",
+    "Option 3": "teacher model 的預測分佈",
+    "Option 4": "新訓練語料",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 16,
+    "Question Title": "模型遭受 adversarial 攻擊時，哪種策略有助於提升其防禦能力？",
+    "Option 1": "移除所有標註資料",
+    "Option 2": "減少隱藏層",
+    "Option 3": "單一資料訓練",
+    "Option 4": "加入對抗訓練與防禦強化方法",
+    "Correct Option": "(D)"
+  },
+  {
+    "Question number": 17,
+    "Question Title": "AI 治理的主要挑戰之一是？",
+    "Option 1": "AI 透明性與公平性問題",
+    "Option 2": "AI 只能應用於娛樂產業",
+    "Option 3": "AI 無需監管，企業可自由運用",
+    "Option 4": "AI 無法影響社會發展",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 18,
+    "Question Title": "AI 在數據處理時，為什麼要進行特徵縮放（Feature Scaling）？",
+    "Option 1": "讓 AI 只學習部分數據，以減少訓練時間",
+    "Option 2": "AI 自動忽略較小的數據特徵",
+    "Option 3": "避免 AI 訓練過快導致過擬合",
+    "Option 4": "讓不同數據特徵具有相同的數值範圍，提高模型效能",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 19,
+    "Question Title": "哪一種技術可以讓 AI 在數據有限的情況下仍然能夠有效學習？",
+    "Option 1": "遷移學習（Transfer Learning）",
+    "Option 2": "強化學習（Reinforcement Learning）",
+    "Option 3": "非監督式學習（Unsupervised Learning）",
+    "Option 4": "過擬合（Overfitting）",
+    "Correct Option": "(D)"
+  },
+  {
+    "Question number": 20,
+    "Question Title": "多語言生成任務中，如何減少語法錯誤與混淆？",
+    "Option 1": "使用單語語料",
+    "Option 2": "禁用轉換層",
+    "Option 3": "降低嵌入維度",
+    "Option 4": "加入語言標記與專屬編碼策略",
+    "Correct Option": "(D)"
+  },
+  {
+    "Question number": 21,
+    "Question Title": "生成模型在金融或法律應用中強調可信度，以下何者為必要機制？",
+    "Option 1": "增加隨機性",
+    "Option 2": "訓練新 tokenizer",
+    "Option 3": "壓縮 embedding 空間",
+    "Option 4": "導入來源引用與內容驗證技術",
+    "Correct Option": "(D)"
+  },
+  {
+    "Question number": 22,
+    "Question Title": "哪種 AI 技術可用於語音辨識？",
+    "Option 1": "Whisper",
+    "Option 2": "CNN（卷積神經網絡）",
+    "Option 3": "K-Means（K-均值聚類）",
+    "Option 4": "GAN（生成對抗網絡）",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 23,
+    "Question Title": "在 Transformer 模型中，哪個機制使其能夠有效處理長距離依賴關係？",
+    "Option 1": "卷積層（Convolution Layer）",
+    "Option 2": "注意力機制（Attention Mechanism）",
+    "Option 3": "隱藏層（Hidden Layer）",
+    "Option 4": "決策樹（Decision Tree）",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 24,
+    "Question Title": "AI 監管應如何確保 AI 生成內容不違反法律？",
+    "Option 1": "設立 AI 內容監督機制",
+    "Option 2": "讓 AI 自由運行，不受監管",
+    "Option 3": "企業可自行決定 AI 監管標準",
+    "Option 4": "讓 AI 生成的內容不受法律規範",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 25,
+    "Question Title": "使用 position encoding 的變形設計，如 position interpolation，其目的是？",
+    "Option 1": "降低向量計算量",
+    "Option 2": "轉換資料類型",
+    "Option 3": "保持位置資訊一致性於不同長度輸入",
+    "Option 4": "優化分類任務",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 26,
+    "Question Title": "下列何種模型架構更適合處理長文本任務？",
+    "Option 1": "TinyBERT",
+    "Option 2": "LLaMA",
+    "Option 3": "Perceiver IO",
+    "Option 4": "CNN-LSTM",
+    "Correct Option": "(B)or(C)"
+  },
+  {
+    "Question number": 27,
+    "Question Title": "生成式 AI（Generative AI）面臨的主要道德挑戰是？",
+    "Option 1": "AI 可能生成誤導性資訊，如 Deepfake 內容",
+    "Option 2": "生成式 AI 不會影響社會，因此沒有挑戰",
+    "Option 3": "AI 生成的內容無需監管",
+    "Option 4": "AI 生成的內容永遠是正確的",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 28,
+    "Question Title": "企業如何確保 AI 決策的透明性？",
+    "Option 1": "採用可解釋 AI（Explainable AI, XAI）技術，並提供決策過程的詳細說明",
+    "Option 2": "讓 AI 自行運行，不提供決策過程資訊",
+    "Option 3": "AI 透明性不影響企業運營，因此不需考慮",
+    "Option 4": "只關注 AI 決策結果，不關心決策過程",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 29,
+    "Question Title": "在智慧零售（Smart Retail）中，哪一種 AI 應用最能提升顧客體驗？",
+    "Option 1": "個性化推薦系統（Personalized Recommendation System）",
+    "Option 2": "自動生成合約",
+    "Option 3": "深度偽造（Deepfake）技術",
+    "Option 4": "強化學習（Reinforcement Learning）",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 30,
+    "Question Title": "哪一種 AI 技術最適合用於圖像風格轉換（Style Transfer）？",
+    "Option 1": "決策樹（Decision Tree）",
+    "Option 2": "支持向量機（SVM）",
+    "Option 3": "隨機森林（Random Forest）",
+    "Option 4": "生成對抗網絡（GAN）",
+    "Correct Option": "(D)"
+  },
+  {
+    "Question number": 31,
+    "Question Title": "人類偏好回饋機制導入的最大挑戰是？",
+    "Option 1": "模型太快收斂",
+    "Option 2": "收集一致性的標註",
+    "Option 3": "模型無法量化語意",
+    "Option 4": "無法 token 化輸出",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 32,
+    "Question Title": "紅隊測試（Red Teaming）在生成式AI中的作用為？",
+    "Option 1": "產生標準訓練資料",
+    "Option 2": "訓練影像模型",
+    "Option 3": "強化強化學習環境",
+    "Option 4": "測試模型可能的錯誤與濫用風險",
+    "Correct Option": "(D)"
+  },
+  {
+    "Question number": 33,
+    "Question Title": "大語言模型中使用 Key-Value Cache 的目的為？",
+    "Option 1": "壓縮token長度",
+    "Option 2": "儲存已產生token避免重複",
+    "Option 3": "提升生成效率並避免重算注意力",
+    "Option 4": "增強語法一致性",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 34,
+    "Question Title": "AI 在未來醫療發展中可能帶來的好處是？",
+    "Option 1": "AI 可提供更精準的個人化診斷",
+    "Option 2": "AI 取代所有醫療人員，不需醫生參與",
+    "Option 3": "AI 無法應用於醫療領域",
+    "Option 4": "AI 只能用於基礎醫療數據分析，無法提供診斷建議",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 35,
+    "Question Title": "自注意力機制中，Query 與 Key 的相似度會影響什麼？",
+    "Option 1": "模型結構深度",
+    "Option 2": "注意力權重分配",
+    "Option 3": "模型收斂速度",
+    "Option 4": "記憶體分配方式",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 36,
+    "Question Title": "AI 在智慧製造中的應用不包括以下哪一項？",
+    "Option 1": "自動化生 產流程",
+    "Option 2": "預測設備維護",
+    "Option 3": "AI 取代所有人類工人",
+    "Option 4": "品質檢測與異常偵測",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 37,
+    "Question Title": "AI 治理（ AI Governance ）主要關注哪些議題？",
+    "Option 1": "AI 的透明性、公平性、倫理問題與風險管理",
+    "Option 2": "讓 AI 完全獨立運行，不需監管",
+    "Option 3": "讓企業自由運用 AI，不受法律約束",
+    "Option 4": "AI 只應用於特定 產業，因此無需治理",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 38,
+    "Question Title": "AI 風險管理中，企業應如何確保 AI 模型的公平性？",
+    "Option 1": "透過數據去偏（ Debiasing ）技術減少 AI 偏見",
+    "Option 2": "讓 AI 自行選擇數據來源",
+    "Option 3": "完全依賴 AI 自動學習，不需監管",
+    "Option 4": "允許 AI 自由決定商業決策",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 39,
+    "Question Title": "AI 訓練時的「過擬合（ Overfitting ）」問題，通常可透過哪種技術來緩解？",
+    "Option 1": "正則化（Regularization ）與交叉驗證（ Cross Validation ）",
+    "Option 2": "減少訓練數據，以降低模型學習能力",
+    "Option 3": "讓 AI 使用相同的數據重複訓練",
+    "Option 4": "只使用測試數據進行訓練",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 40,
+    "Question Title": "AI 模型的公平性（ Fairness ）問題通常來自於哪種因素？",
+    "Option 1": "訓練數據的偏見與不均衡",
+    "Option 2": "AI 自己產生的錯誤",
+    "Option 3": "運算速度不足",
+    "Option 4": "企業無法取得 AI 硬體設備",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 41,
+    "Question Title": "No Code 平台的主要 特點是？",
+    "Option 1": "讓非技術人員能夠 開發 AI 應用",
+    "Option 2": "需要專業程式設計知識",
+    "Option 3": "只能應用於金融行業",
+    "Option 4": "不能用於企業 AI 開發",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 42,
+    "Question Title": "Transformer 中 Position Encoding 主要用來？",
+    "Option 1": "增加計算速度",
+    "Option 2": "輸入時間標記",
+    "Option 3": "表示序列中詞語的位置信息",
+    "Option 4": "減少記憶體用量",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 43,
+    "Question Title": "以下哪項是 LoRA 的主要優勢之一？",
+    "Option 1": "可大幅提升圖片辨識精度",
+    "Option 2": "節省記憶體與訓練資源，適合低資源環境",
+    "Option 3": "支援多模態即時運算",
+    "Option 4": "能加速資料蒐集流程",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 44,
+    "Question Title": "生成式 AI 最適合應用於？",
+    "Option 1": "影像與文本生成",
+    "Option 2": "簡單的數學運算",
+    "Option 3": "網路安全監控",
+    "Option 4": "傳統數據分析",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 45,
+    "Question Title": "生成式 AI（Generative AI ）與傳統 AI 的主要差異是？",
+    "Option 1": "生成式 AI 可以創造新 內容，而傳統 AI 主要進行分類與預測",
+    "Option 2": "生成式 AI 只能用於語言應用",
+    "Option 3": "生成式 AI 無法使用深度學習技術",
+    "Option 4": "傳統 AI 更擅長創意設計",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 46,
+    "Question Title": "生成對抗網絡（ GAN）的主要特點是？",
+    "Option 1": "包含一個「生成器」與一個「鑑別器」，互相對抗學習",
+    "Option 2": "只適用於監督式學習",
+    "Option 3": "AI 自動標記數據",
+    "Option 4": "AI 只能用於數據分類",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 47,
+    "Question Title": "目前 AI 隱私保護法規最重要的目標是？",
+    "Option 1": "保護個人數據不被濫用",
+    "Option 2": "讓 AI 可以自由存取所有數據",
+    "Option 3": "限制 AI 在所有產業的發展",
+    "Option 4": "AI 不需要考慮數據隱私",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 48,
+    "Question Title": "LoRA 與 Adapter 皆為參數高效微調技術，其主要差異為？",
+    "Option 1": "Adapter 嵌入額外層，LoRA 注入低秩矩陣於注意力結構中",
+    "Option 2": "LoRA 只能應用於分類，Adapter 可用於生成",
+    "Option 3": "Adapter 僅適用 CNN 模型，LoRA 適用語言模型",
+    "Option 4": "兩者皆不支援分散式訓練",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 49,
+    "Question Title": "在 AI 訓練過程中，為何要使用「測試數據集」？",
+    "Option 1": "測試模型的泛化能力與準確性",
+    "Option 2": "幫助 AI 記住數據",
+    "Option 3": "讓 AI 自動產生新數據",
+    "Option 4": "使 AI 只學習單一資料",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 50,
+    "Question Title": "在 AI 訓練過程中，為何需要「數據清理（ Data Clea ning）」？",
+    "Option 1": "移除錯誤、不完整或不相關的數據，以提高 AI 準確度",
+    "Option 2": "讓 AI 隨機選擇數據進行學習",
+    "Option 3": "只需輸入所有數據，不需要清理",
+    "Option 4": "AI 會自動忽略錯誤數據",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 51,
+    "Question Title": "在零售業， AI 可以如何提升顧客體驗？",
+    "Option 1": "個性化推薦產品",
+    "Option 2": "自動結帳與無人商店技術",
+    "Option 3": "分析顧客購買行為以優化銷售策略",
+    "Option 4": "以上皆是",
+    "Correct Option": "(D)"
+  },
+  {
+    "Question number": 52,
+    "Question Title": "何謂「數據標準化（ Standardization ）」？",
+    "Option 1": "讓數據值 的範圍統一，以避免影響模型表現",
+    "Option 2": "AI 可自動調整數據標準",
+    "Option 3": "讓 AI 直接使用未處理數據",
+    "Option 4": "AI 只適用於影像數據",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 53,
+    "Question Title": "哪一種 AI 應用最適合用於智慧醫療診斷？",
+    "Option 1": "深度學習（Deep Learning）與影像辨識技術",
+    "Option 2": "YOLO（You Only Look Once）",
+    "Option 3": "K -Means 聚類分析",
+    "Option 4": "變分自動編碼器（ VAE）",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 54,
+    "Question Title": "使用固定格式的 Prompt 模版有助於？",
+    "Option 1": "提高模型推理速度",
+    "Option 2": "控制生成風格與結構穩定",
+    "Option 3": "增加資料標註量",
+    "Option 4": "減少模型參數",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 55,
+    "Question Title": "私有化部署大型語言模型時，最主要挑戰之一是？",
+    "Option 1": "模型過擬合",
+    "Option 2": "計算資源與儲存成本高",
+    "Option 3": "無法使用RAG技術",
+    "Option 4": "無法支援多語輸出",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 56,
+    "Question Title": "哪種 AI 技術可以在沒有標註數據的情況下學習數據模式？",
+    "Option 1": "非監督式學習（ Unsupervised Learning ）",
+    "Option 2": "監督式學習（Supervised Learning ）",
+    "Option 3": "半監督式學習（Semi -Supervised Learning ）",
+    "Option 4": "強化學習（Reinforcement Learning ）",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 57,
+    "Question Title": "哪種 AI 技術最適合用於 AI 生成的圖像辨識？",
+    "Option 1": "CNN（卷積神經網絡）",
+    "Option 2": "強化學習（Reinforcement Learning ）",
+    "Option 3": "LSTM （長短期記憶網絡）",
+    "Option 4": "YOLO（You Only Look Once ）",
+    "Correct Option": "(A)or(C)"
+  },
+  {
+    "Question number": 58,
+    "Question Title": "哪種 AI 技術最適合金融交易中的高頻交易（ High -Frequency Trading, HFT）？",
+    "Option 1": "強化學習（Reinforcement Learning ）",
+    "Option 2": "支持向量機（SVM ）",
+    "Option 3": "主成分分析（PCA ）",
+    "Option 4": "決策樹（Decision Tree ）",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 59,
+    "Question Title": "強化學習（ Reinforcement Learning ）與監督式學習的主要區別是？",
+    "Option 1": "強化學習通過試錯（Trial -and-Error）機制學習，而監督式學習依賴標註數據",
+    "Option 2": "強化學習需要大 量標註數據",
+    "Option 3": "監督式學習不需要任何標註數據",
+    "Option 4": "兩者本質上沒有區別",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 60,
+    "Question Title": "深度學習的最大特點是？",
+    "Option 1": "只需少量數據即可學習",
+    "Option 2": "自動從大量資料中學習特徵",
+    "Option 3": "可解釋性極高",
+    "Option 4": "不依賴神經網路架構",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 61,
+    "Question Title": "生成式AI在新聞產業導入時，需特別注意下列何項議題？",
+    "Option 1": "提升視覺生成速度",
+    "Option 2": "合成內容之事實查核與資訊真實性",
+    "Option 3": "降低資料傳輸速率",
+    "Option 4": "擴充資料欄位維度",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 62,
+    "Question Title": "隨機森林（ Random Forest ）屬於哪種機器學習技術？",
+    "Option 1": "監督式學習",
+    "Option 2": "非監督式學習",
+    "Option 3": "強化學習",
+    "Option 4": "生成式 AI",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 63,
+    "Question Title": "鑑別式 AI 最適合哪類任務？",
+    "Option 1": "分類與預測",
+    "Option 2": "生成新數據",
+    "Option 3": "進行隨機決策",
+    "Option 4": "幫助 AI 訓練數據清理",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 64,
+    "Question Title": "以下何者是生成式 AI 在行銷領域的應用？",
+    "Option 1": "自動生成廣告文案或圖片",
+    "Option 2": "僅用於客戶分群",
+    "Option 3": "取代行銷團隊進行決策",
+    "Option 4": "僅用於數據分析",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 65,
+    "Question Title": "以下何者是生成式 AI 在新聞領域的應用？",
+    "Option 1": "自動生成新聞摘要或報導",
+    "Option 2": "僅用於新聞數據分析",
+    "Option 3": "取代記者進行採訪",
+    "Option 4": "僅用於新聞文件管理",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 66,
+    "Question Title": "以下何者是生成式 AI 在製造領域的應用？",
+    "Option 1": "自動生成產品設計或生產報告",
+    "Option 2": "僅用於製造數據分析",
+    "Option 3": "取代工人進行生產",
+    "Option 4": "僅用於製造文件管理",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 67,
+    "Question Title": "以下何者是保護 AI 資料隱私的技術？",
+    "Option 1": "匿名化與數據加密",
+    "Option 2": "公開數據共享",
+    "Option 3": "無加密傳輸",
+    "Option 4": "集中式數據儲存",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 68,
+    "Question Title": "WordPiece tokenizer 的關鍵特點為？",
+    "Option 1": "使用 UTF-8 分段",
+    "Option 2": "基於機率最大化選擇子詞組合",
+    "Option 3": "以字母為最小單位",
+    "Option 4": "只能處理英文輸入",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 69,
+    "Question Title": "鑑別式 AI 與生成式 AI 的基本區別在於？",
+    "Option 1": "鑑別式 AI 用於分類，生成式 AI 用於生成新數據",
+    "Option 2": "鑑別式 AI 用於生成，生成式 AI 用於分類",
+    "Option 3": "兩者功能相同，僅技術不同",
+    "Option 4": "鑑別式 AI 無法與生成式 AI 結合",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 70,
+    "Question Title": "下列哪一個應用最符合生成式AI的功能？",
+    "Option 1": "Gmail 自動將信件歸類為垃圾郵件",
+    "Option 2": "銀行根據資料計算信用評分",
+    "Option 3": "ChatGPT 撰寫行銷廣告文案",
+    "Option 4": "AI 模型預測天氣變化趨勢",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 71,
+    "Question Title": "下列哪一種學習類型不需要標註資料(Labeled Data)進行訓練？",
+    "Option 1": "監督式學習(Supervised Learning)",
+    "Option 2": "強化學習(Reinforcement Learning)",
+    "Option 3": "非監督式學習(Unsupervised Learning)",
+    "Option 4": "半監督式學習(Semi-supervised Learning)",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 72,
+    "Question Title": "在群集抽樣中，資料會如何被處理？",
+    "Option 1": "完全隨機選取各筆資料",
+    "Option 2": "依照欄位順序隨機分配",
+    "Option 3": "先進行分群，從整群中選取",
+    "Option 4": "根據資料標籤直接分層抽樣",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 73,
+    "Question Title": "下列哪一項屬於將類別型轉為數值型的例子？",
+    "Option 1": "將地址轉為區域類別(北部、中部)",
+    "Option 2": "將「學歷」以入學年齡轉換為數值，如小學為 6 歲",
+    "Option 3": "將收入欄位依範圍分為高、中、低",
+    "Option 4": "將圖片標記轉為一組類別標籤",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 74,
+    "Question Title": "下列哪一項為深度學習AI的技術核心？",
+    "Option 1": "專家系統與邏輯推理",
+    "Option 2": "卷積神經網路(CNN)與Transformer",
+    "Option 3": "支持向量機(SVM)與貝氏網路",
+    "Option 4": "規則式知識庫與資料倉儲技術",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 75,
+    "Question Title": "聯邦學習的哪一階段負責讓中央伺服器將初始模型提供給各客戶端？",
+    "Option 1": "模型聚合階段",
+    "Option 2": "本地訓練階段",
+    "Option 3": "初始模型下發",
+    "Option 4": "參數回傳階段",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 76,
+    "Question Title": "連接主義的核心理念為何？",
+    "Option 1": "模仿人類邏輯語言結構來建構推論系統",
+    "Option 2": "藉由模仿人類大腦架構來重建智慧",
+    "Option 3": "使用資料庫存儲人類知識以進行推論",
+    "Option 4": "建立符號規則樹來產生知識結構",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 77,
+    "Question Title": "通用人工智慧(AGI)與狹義人工智慧(ANI)的最大差異是什麼？",
+    "Option 1": "AGI 僅能處理聲音資料，而 ANI 可處理圖像",
+    "Option 2": "AGI 可處理多種任務並具備自主學習新任務的能力",
+    "Option 3": "ANI 擁有更高邏輯推理能力",
+    "Option 4": "AGI 依賴大量標註資料才能運作",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 78,
+    "Question Title": "哪一項為目前關於超級人工智慧(ASI)發展的真實狀況？",
+    "Option 1": "ASI 已在各大研究機構實現並普遍應用",
+    "Option 2": "ASI 尚未實現，目前仍處於科幻與假設階段",
+    "Option 3": "ASI 已經能完全模擬人腦並通過圖靈測試",
+    "Option 4": "ASI 目前已用於解決全球氣候變遷問題",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 79,
+    "Question Title": "使用交叉驗證的優點為何？",
+    "Option 1": "可以隨機產生更多標記資料",
+    "Option 2": "減少模型訓練所需的記憶體空間",
+    "Option 3": "模型在不同分割上都接受測試，有助於評估其穩定性",
+    "Option 4": "可以加快深度學習的反向傳播速度",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 80,
+    "Question Title": "No Code / Low Code 的核心價值不包括下列哪一項？",
+    "Option 1": "加速應用交付速度",
+    "Option 2": "降低軟體開發門檻",
+    "Option 3": "提升開發效率與生產力",
+    "Option 4": "保證比傳統開發更高的應用程式性能",
+    "Correct Option": "(D)"
+  },
+  {
+    "Question number": 81,
+    "Question Title": "生成式 AI 的核心價值主要在於？",
+    "Option 1": "精確複製現有數據",
+    "Option 2": "「從無到有」創造新的、原創的內容",
+    "Option 3": "執行重複性的物理任務",
+    "Option 4": "儲存和管理大規模數據庫",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 82,
+    "Question Title": "ControlNet 這類插件主要用於解決圖像生成中的哪個技術挑戰？",
+    "Option 1": "提高生成速度",
+    "Option 2": "降低計算成本",
+    "Option 3": "實現對生成圖像局部細節的精準控制",
+    "Option 4": "自動檢測版權問題",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 83,
+    "Question Title": "未來生成式 AI 的應用可能會與哪些技術進一步融合？",
+    "Option 1": "蒸汽機和內燃機",
+    "Option 2": "AR/VR 和物聯網 (IoT)",
+    "Option 3": "傳統印刷術和造紙術",
+    "Option 4": "電報和傳真機",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 84,
+    "Question Title": "提示工程 (Prompt Engineering) 中的「角色扮演法」是指？",
+    "Option 1": "要求 AI 扮演多個角色進行辯論",
+    "Option 2": "指定 AI 以特定身份（如資深編輯）進行回應",
+    "Option 3": "讓使用者扮演 AI 的角色",
+    "Option 4": "模仿著名人物的寫作風格",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 85,
+    "Question Title": "根據 Forrester 的數據，大約有多少比例的企業在 PoC 階段發現 AI 工具與預期不符？",
+    "Option 1": "10%",
+    "Option 2": "30%",
+    "Option 3": "50%",
+    "Option 4": "70%",
+    "Correct Option": "(D)"
+  },
+  {
+    "Question number": 86,
+    "Question Title": "評估流程的最後一步「試點與迭代」強調了什麼？",
+    "Option 1": "一次性完成所有部署工作",
+    "Option 2": "在有限範圍內試行，收集反饋並監控 KPI，以便調整策略",
+    "Option 3": "完全依賴 AI 自動完成所有評估",
+    "Option 4": "僅選擇成本最低的工具進行試點",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 87,
+    "Question Title": "對於醫療診斷等高風險領域，模型缺乏可解釋性（黑箱問題）是一個挑戰，文件建議導入什麼工具來提升透明度？",
+    "Option 1": "GPU 加速卡",
+    "Option 2": "可解釋性工具（如 LIME）",
+    "Option 3": "數據標註平台",
+    "Option 4": "項目管理軟體",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 88,
+    "Question Title": "制定 SMART 目標是需求分析與目標設定的關鍵一步，其中 \"S\" 代表什麼？",
+    "Option 1": "簡單 (Simple)",
+    "Option 2": "具體的 (Specific)",
+    "Option 3": "可擴展的 (Scalable)",
+    "Option 4": "策略性的 (Strategic)",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 89,
+    "Question Title": "在風險管理中強調「人在環路」(Human-in-the-Loop, HITL) 的原則，主要是為了？",
+    "Option 1": "減少 AI 的使用以節省成本",
+    "Option 2": "在關鍵環節引入人工判斷、審核和干預，降低純 AI 決策的風險",
+    "Option 3": "讓人類完全接管 AI 的所有工作",
+    "Option 4": "收集更多用戶數據用於訓練 AI",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 90,
+    "Question Title": "你的公司開發了一款 AI 生成影像平台，能夠自動創作藝術作品，但有藝術家指控該 AI 模型涉嫌侵犯版權。你應該如何應對這種指控？",
+    "Option 1": "檢查 AI 訓練數據來源，確保未使用受版權保護的素材",
+    "Option 2": "忽略指控，繼續使用 AI 生成圖像",
+    "Option 3": "讓 AI 自行決定圖像內容，無需人類審查",
+    "Option 4": "移除所有 AI 生成的圖像，避免法律風險",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 91,
+    "Question Title": "Stable Diffusion 使用 CLIP 模型的目的為何？",
+    "Option 1": "增強訓練資料的影像亮度",
+    "Option 2": "擷取文本與圖像對應的語意向量",
+    "Option 3": "修復模糊圖像",
+    "Option 4": "替代 UNet 結構",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 92,
+    "Question Title": "RAG 架構的『Generator』元件主要負責？",
+    "Option 1": "編碼問題語義",
+    "Option 2": "產生文本回應",
+    "Option 3": "提取與問題相關的資料內容",
+    "Option 4": "標註資料來源",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 93,
+    "Question Title": "資料前處理中，進行數據正規化的目的是？",
+    "Option 1": "減少噪音",
+    "Option 2": "統一特徵尺度",
+    "Option 3": "提高演算法效率",
+    "Option 4": "增加資料量",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 94,
+    "Question Title": "Prompt Engineering 的關鍵目的是什麼？",
+    "Option 1": "訓練 AI 模型使其更穩定",
+    "Option 2": "設計輸入指令以誘導生成模型產出預期結果",
+    "Option 3": "開發新型硬體以支援語音辨識",
+    "Option 4": "轉換圖像為文字格式以利分析",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 95,
+    "Question Title": "列哪種預訓練模型最適合應用於遮蔽語言建模（MLM）任務？",
+    "Option 1": "GPT",
+    "Option 2": "BERT",
+    "Option 3": "DALL·E",
+    "Option 4": "Whisper",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 96,
+    "Question Title": "Top-k sampling 的主要策略為？",
+    "Option 1": "抽樣所有候選詞",
+    "Option 2": "按照機率總和篩選詞彙",
+    "Option 3": "僅從機率前 k 高的詞中抽樣",
+    "Option 4": "固定選取最高機率詞",
+    "Correct Option": "(C)"
+  },
+  {
+    "Question number": 97,
+    "Question Title": "哪一種數據處理技術可以減少 AI 訓練模型的運算複雜度？",
+    "Option 1": "降維（Dimensionality Reduction）",
+    "Option 2": "增加數據特徵數量",
+    "Option 3": "讓 AI 使用所有數據特徵進行計算",
+    "Option 4": "AI 不需要數據處理",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 98,
+    "Question Title": "監督式學習與非監督式學習的主要區別是？",
+    "Option 1": "監督式學習使用標註數據，非監督式學習則無需標註數據",
+    "Option 2": "監督式學習只適用於影像分析",
+    "Option 3": "AI 在非監督式學習中無法自動發現數據模式",
+    "Option 4": "兩者完全相同",
+    "Correct Option": "(A)"
+  },
+  {
+    "Question number": 99,
+    "Question Title": "在生成式AI應用中使用Diffusion Model時，其主要設計理念為何？",
+    "Option 1": "循環記憶控制",
+    "Option 2": "從雜訊逐步還原出影像或訊號",
+    "Option 3": "高維空間壓縮",
+    "Option 4": "逆向強化策略",
+    "Correct Option": "(B)"
+  },
+  {
+    "Question number": 100,
+    "Question Title": "AIGC系統導入token moderation最主要用途是？",
+    "Option 1": "控制輸出token的敏感性與安全性",
+    "Option 2": "增加輸出多樣性",
+    "Option 3": "儲存token記憶",
+    "Option 4": "增加推論頻率",
+    "Correct Option": "(A)"
+  }
+]
